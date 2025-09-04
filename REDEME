@@ -1,1 +1,44 @@
-Real-time molecular dynamics trajectory obtained from constant potential simulations at the Au–water interface, illustrating how alkali metal cations modulate interfacial structure and reaction dynamics. The movie highlights the dynamic adsorption of CO₂ and the concurrent suppression of hydrogen evolution in the presence of cations. Water molecules, ions, and surface atoms are shown explicitly to visualize the structural fluctuations and the evolution of the electrified interface under operating conditions.
+Title
+
+Beyond static snapshots: An electrochemical simulator reveals how cations steer reaction dynamics at live interfaces
+
+Description
+
+This README accompanies Movie S provided in the Supporting Information.
+The movie shows a constant potential molecular dynamics trajectory at the Au–water interface, where alkali metal cations regulate interfacial structure and reactivity. Key phenomena include:
+
+Promotion of CO₂ adsorption by cations
+
+Suppression of hydrogen evolution reaction
+
+Real-time structural fluctuations of water molecules and ions under operating conditions
+
+File Information
+
+File name: Movie_S.mp4
+
+Format: MP4 (H.264 codec)
+
+Duration: ~XX seconds (replace with actual length)
+
+Resolution: 1920 × 1080
+
+Visualization Details
+
+Yellow spheres: Au atoms
+
+Red/white molecules: H₂O
+
+Grey atoms: C in CO₂
+
+Pink spheres: Alkali metal cations
+
+Blue atoms: O in CO₂
+
+Notes
+
+The trajectory was generated using the constant potential reactor framework with neural network potentials trained on DFT data.
+
+The visualization was rendered with [insert software, e.g., VMD/OVITO/ASE].
+
+The movie is intended for illustrative purposes only; quantitative analysis is provided in the main text and SI.
