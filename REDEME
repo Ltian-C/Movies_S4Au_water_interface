@@ -19,22 +19,6 @@ File name: Movie_S.mp4
 
 Format: MP4 (H.264 codec)
 
-Duration: ~XX seconds (replace with actual length)
-
-Resolution: 1920 × 1080
-
-Visualization Details
-
-Yellow spheres: Au atoms
-
-Red/white molecules: H₂O
-
-Grey atoms: C in CO₂
-
-Pink spheres: Alkali metal cations
-
-Blue atoms: O in CO₂
-
 Notes
 
 The trajectory was generated using the constant potential reactor framework with neural network potentials trained on DFT data.
