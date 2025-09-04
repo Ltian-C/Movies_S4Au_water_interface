@@ -5,24 +5,12 @@ Beyond static snapshots: An electrochemical simulator reveals how cations steer 
 Description
 
 This README accompanies Movie S provided in the Supporting Information.
-The movie shows a constant potential molecular dynamics trajectory at the Au–water interface, where alkali metal cations regulate interfacial structure and reactivity. Key phenomena include:
-
-Promotion of CO₂ adsorption by cations
-
-Suppression of hydrogen evolution reaction
-
+The movie shows a constant potential molecular dynamics trajectory at the Au–water interface, where alkali metal cations regulate interfacial structure and reactivity. 
+Key phenomena include:
 Real-time structural fluctuations of water molecules and ions under operating conditions
-
 File Information
-
 File name: Movie_S.mp4
-
 Format: MP4 (H.264 codec)
-
 Notes
-
 The trajectory was generated using the constant potential reactor framework with neural network potentials trained on DFT data.
-
-The visualization was rendered with [insert software, e.g., VMD/OVITO/ASE].
-
 The movie is intended for illustrative purposes only; quantitative analysis is provided in the main text and SI.
